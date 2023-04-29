@@ -1,0 +1,13 @@
+sh run
+sh version
+sh cdp neigh
+sh int desc
+sh int status
+sh arp
+sh mac address-table
+sh vlan
+sh power inline
+sh env
+sh env status
+sh switch
+sh mod
